@@ -1,0 +1,24 @@
+/* Add the background image and repeat styles */
+
+body {
+
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Nursing_Cat_01.jpg/500px-Nursing_Cat_01.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail);
+    background-repeat: repeat;  
+}
+
+
+div {
+
+    width: 50%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Nursing_Cat_01.jpg/500px-Nursing_Cat_01.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail);
+    background-repeat: repeat;
+    opacity: 0.5;
+}
+
